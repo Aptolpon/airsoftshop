@@ -1,0 +1,62 @@
+.top{
+  width:100%;
+  height:100px;
+  float:left;
+  background-color:red;
+  text-align:center;
+  border-radius:15px;
+}
+.center{
+  width:100%;
+  height:1300px;
+  float:left;
+}
+.bottom{
+  width:100%;
+  height:150px;
+  float:left;
+  text-align:center;
+}
+.galaxysliv{
+  border-radius:10px;
+  width:33%;
+  heigth:20%;
+  border:5px black solid;
+}
+.glock{
+  border-radius:10px;
+  width:33%;
+  heigth:20%;
+  border:5px black solid;
+  position:absolute;
+  top:174px;
+  right:30%;
+}
+.hicapa{
+  border-radius:10px;
+  width:28%;
+  heigth:20%;
+  border:5px black solid;
+  
+}
+.ggg{
+  width:33%;
+  border:5px black solid;
+  border-radius:10px;
+}
+.m4a1{
+  width:33%;
+  border:5px black solid;
+  border-radius:10px;
+    position:absolute;
+  top:797px;
+  right:27%;
+}
+.ar15{
+  width:33%;
+  border:5px black solid;
+  border-radius:10px;
+    position:absolute;
+  top:1097px;
+  right:66%;
+}
